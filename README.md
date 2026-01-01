@@ -26,8 +26,8 @@
 </head>
 <body>
     <h1>Selamat Datang di Website Sederhana!</h1>
-    <p>Ini adalah contoh website statis yang dibuat dengan HTML. Anda bisa menambah konten di sini.</p>
-    <img src="https://via.placeholder.com/300" alt="Gambar contoh">
+    <p>selamat datang fajar.</p>
+    <img src="https://via.placeholder.com/300" alt="Black_and_Red_Y2k_Modern_Professional_Fashion_Logo_20251009_">
     <p>Kunjungi <a href="https://www.example.com">situs ini</a> untuk informasi lebih lanjut.</p>
 </body>
 </html>
